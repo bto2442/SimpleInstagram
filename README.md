@@ -1,6 +1,6 @@
-# Project 3 - *SimpleInstagram*
+# Project 3 - *Simple Instagram*
 
-**SimpleInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Simple Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **11** hours spent in total
 
